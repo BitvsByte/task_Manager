@@ -1,6 +1,11 @@
 # Hello React World 👋
 Here you have a very small proyect where by following a Tutorial I learned about the life of components in React.
 
+<h1 align="center"> javaScript Snake Game </h1>
+<p align="left">
+   <img width="900" height="400" src="https://recursosparapymes.com/wp-content/uploads/2022/03/todolist-herramientas-gestion-de-tareas.jpg">
+   </p>
+
 ## Available Scripts
 
 In the project directory, you can run:
