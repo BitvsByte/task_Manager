@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hello React World 👋
+Here you have a very small proyect where by following a Tutorial I learned about the life of components in React.
 
 ## Available Scripts
 
